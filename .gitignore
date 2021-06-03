@@ -1,0 +1,53 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Topics/Arrays/Initializing an array of characters/out/
+/Topics/Arrays/Initializing an array of characters/out/production/classes/
+/Topics/Arrays/Initializing an array of integers/out/
+/Topics/Arrays/Initializing an array of integers/out/production/classes/
+/Topics/Arrays/Swap elements/out/
+/Topics/Arrays/Swap elements/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/Getting substrings/Exchange/out/
+/Topics/Getting substrings/Exchange/out/production/classes/
+/Topics/Jumps and returns/Beyond the word/out/
+/Topics/Jumps and returns/Beyond the word/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/production/classes/
+/Topics/Jumps and returns/Unique characters/out/
+/Topics/Jumps and returns/Unique characters/out/production/classes/
+/Topics/Multi-dimensional array/Corners/out/
+/Topics/Multi-dimensional array/Corners/out/production/classes/
+/Topics/Multi-dimensional array/Cube of zeros/out/
+/Topics/Multi-dimensional array/Cube of zeros/out/production/classes/
+/Topics/Multi-dimensional array/Shapeshifter/out/
+/Topics/Multi-dimensional array/Shapeshifter/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Processing strings/Piece of alphabet/out/
+/Topics/Processing strings/Piece of alphabet/out/production/classes/
+/Topics/Processing strings/The longest word/out/
+/Topics/Processing strings/The longest word/out/production/classes/
+/Topics/Reading data with a readLine/Read a Double/out/
+/Topics/Reading data with a readLine/Read a Double/out/production/classes/
+/Topics/String arrays/Guard On The Gate/out/
+/Topics/String arrays/Guard On The Gate/out/production/classes/
+/Topics/When expression/A simple calculator/out/
+/Topics/When expression/A simple calculator/out/production/classes/
+/Topics/When expression/FTN-Numbers/out/
+/Topics/When expression/FTN-Numbers/out/production/classes/
+/Topics/When expression/String processor/out/
+/Topics/When expression/String processor/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The first position of the largest element/out/
+/Topics/While loops/The first position of the largest element/out/production/classes/
